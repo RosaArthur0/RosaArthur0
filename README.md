@@ -1,5 +1,5 @@
 # RosaArthur0
-![Cover](https://link-da-sua-imagem.com/imagem.jpg)
+
 ###  Olá, eu sou Arthur.
 
 Sou desenvolvedor(a) **Back-End** com foco em **Java**.
