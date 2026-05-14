@@ -24,3 +24,6 @@ Sou desenvolvedor(a) **Back-End** com foco em **Java**.
 | JavaScript | Intermediário | 🟡 Em evolução |
 | PHP | Básico | 🟡 Em evolução |
 | Python | Básico | 🟡 Em evolução |
+
+
+>  Atualmente estou focado em evoluir meus conhecimentos para me tornar um profissional mais completo.
