@@ -23,7 +23,7 @@ Sou desenvolvedor(a) **Back-End** com foco em **Java**.
 | Java | básico | 🟢 Ativo |
 | HTML/CSS | Avançado | 🟢 Ativo |
 | JavaScript | Intermediário | 🟡 Em evolução |
-| PHP | Básico | 🟡 Em evolução |
+| PHP | Intermediário | 🟡 Em evolução |
 | Python | Básico | 🟡 Em evolução |
 
 
